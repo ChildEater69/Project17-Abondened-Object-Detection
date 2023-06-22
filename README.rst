@@ -3,11 +3,26 @@ Project 17: Abandoned Object Detection - Day 1
 
 Welcome to Project 17 of my "25 Projects in 100 Days" series! This project is dedicated to my friend Vansh Aggarwal, who has been instrumental in providing guidance and inspiration. Together, we are embarking on the exciting journey of developing an abandoned object detection system using computer vision techniques.
 
-.. image:: https://badge.fury.io/py/osmcha.svg
-    :target: http://badge.fury.io/py/osmcha
+.. raw:: html
 
-.. image:: https://coveralls.io/repos/willemarcel/osmcha/badge.svg
-    :target: https://coveralls.io/r/willemarcel/osmcha
+   <table>
+     <tr>
+       <td>
+         <a href="https://www.linkedin.com/in/avdhesh-kumar-sharma-751a49225">
+           <img src="/linkedin.gif" alt="Avdhesh Kumar Sharma LinkedIn Profile" width="100"/>
+         </a>
+       </td>
+       <td>
+         <a href="https://www.linkedin.com/in/vansh-aggarwal-531a6124a">
+           <img src="/linkedin.gif" alt="Vansh Aggarwal LinkedIn Profile" width="100"/>
+         </a>
+       </td>
+     </tr>
+     <tr>
+       <td align="center">Avdhesh Kumar Sharma</td>
+       <td align="center">Vansh Aggarwal</td>
+     </tr>
+   </table>
 
 
 Overview
