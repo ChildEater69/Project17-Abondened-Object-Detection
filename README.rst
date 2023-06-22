@@ -3,19 +3,27 @@ Project 17: Abandoned Object Detection - Day 1
 
 Welcome to Project 17 of my "25 Projects in 100 Days" series! This project is dedicated to my friend Vansh Aggarwal, who has been instrumental in providing guidance and inspiration. Together, we are embarking on the exciting journey of developing an abandoned object detection system using computer vision techniques.
 
-.. image:: /linkedin.gif
-   :target: https://www.linkedin.com/in/avdhesh-kumar-sharma-751a49225
-   :alt: Avdhesh Kumar Sharma LinkedIn Profile
-   :width: 100
+.. raw:: html
 
-.. image:: /linkedin.gif
-   :target: https://www.linkedin.com/in/vansh-aggarwal-531a6124a
-   :alt: Vansh Aggarwal LinkedIn Profile
-   :width: 100
+   <table>
+     <tr>
+       <td>
+         <a href="https://www.linkedin.com/in/avdhesh-kumar-sharma-751a49225">
+           <img src="/linkedin.gif" alt="Avdhesh Kumar Sharma LinkedIn Profile" width="100"/>
+         </a>
+       </td>
+       <td>
+         <a href="https://www.linkedin.com/in/vansh-aggarwal-531a6124a">
+           <img src="/linkedin.gif" alt="Vansh Aggarwal LinkedIn Profile" width="100"/>
+         </a>
+       </td>
+     </tr>
+     <tr>
+       <td align="center">Avdhesh Kumar Sharma</td>
+       <td align="center">Vansh Aggarwal</td>
+     </tr>
+   </table>
 
-Avdhesh Kumar Sharma                      Vansh Aggarwal
-----------------------                  ----------------------
-:align: center                          :align: center
 
 Overview
 --------
@@ -45,25 +53,31 @@ Although we have made good progress, there is still room for improvement. Here's
 3. Explore additional computer vision techniques to further improve the system's capabilities.
 4. Document the code, add comments, and ensure readability for future reference.
 
+We are excited about the potential of this project and look forward to further advancements. Join us on this journey as we continue to develop and refine our abandoned object detection system!
+
 Demo Video
 ----------
 
-To see a demonstration of our abandoned object detection system, you can watch the following video:
+To see a demonstration of our abandoned object detection system, you can watch the following video on YouTube:
 
-.. raw:: html
+[![Demo Video](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
 
-   <video width="640" height="480" controls>
-     <source src="https://example.com/Project17/Demo.mp4" type="video/mp4">
-     Your browser does not support the video tag.
-   </video>
+Replace `VIDEO_ID_HERE` with the actual video ID from your YouTube video.
+
+We apologize for the inconvenience, and we appreciate your understanding.
+
 
 We are excited about the potential of this project and look forward to further advancements. Join us on this journey as we continue to develop and refine our abandoned object detection system!
+
+
+
+
 
 Get Involved
 ------------
 
 Feel free to check out the code on our GitHub repository and leave your feedback or suggestions. Contributions are welcome!
 
-GitHub: `Insert GitHub link`
+GitHub: [Insert GitHub link]
 
 Let's revolutionize surveillance and security through the power of computer vision! Together, we can make a difference.
