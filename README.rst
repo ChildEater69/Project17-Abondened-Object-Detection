@@ -55,10 +55,8 @@ Although we have made good progress, there is still room for improvement. Here's
 
 We are excited about the potential of this project and look forward to further advancements. Join us on this journey as we continue to develop and refine our abandoned object detection system!
 
-Demo Video and Screenshot
+Demo Video 
 -------------------------
-
-Here is a screenshot of our system in action. Click the button to open the demo video:
 
 .. raw:: html
 
@@ -66,11 +64,20 @@ Here is a screenshot of our system in action. Click the button to open the demo 
      <tr>
        <td>
          <a href="Project17-Abondened-Object-Detection/Demo.mp4">
-           <img src="Project17-Abondened-Object-Detection/Screenshot (1443).png" width="100"/>
+           <img src="https://viso.ai/wp-content/uploads/2021/09/abandoned-object-detection-suitcase.jpg" alt="Screenshot" width="640" height="480">
+         </a>
+       </td>
+     </tr>
+     <tr>
+       <td align="center">
+         <a href="Project17-Abondened-Object-Detection/Demo.mp4">
+           <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Watch Demo</button>
          </a>
        </td>
      </tr>
    </table>
+
+
 
 
 We apologize for any inconvenience caused earlier, and we appreciate your understanding.
@@ -83,6 +90,6 @@ Get Involved
 
 Feel free to check out the code on our GitHub repository and leave your feedback or suggestions. Contributions are welcome!
 
-GitHub: [Insert GitHub link]
+GitHub: 
 
 Let's revolutionize surveillance and security through the power of computer vision! Together, we can make a difference.
