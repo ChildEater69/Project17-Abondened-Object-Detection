@@ -55,20 +55,25 @@ Although we have made good progress, there is still room for improvement. Here's
 
 We are excited about the potential of this project and look forward to further advancements. Join us on this journey as we continue to develop and refine our abandoned object detection system!
 
-Demo Video
-----------
+Demo Video and Screenshot
+-------------------------
 
-To see a demonstration of our abandoned object detection system, you can watch the following video on YouTube:
+Here is a screenshot of our system in action. Click the button to open the demo video:
 
-[![Demo Video](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+.. raw:: html
 
-Replace `VIDEO_ID_HERE` with the actual video ID from your YouTube video.
+   <table>
+     <tr>
+       <td>
+         <a href="Project17-Abondened-Object-Detection/Demo.mp4">
+           <img src="Project17-Abondened-Object-Detection/Screenshot (1443).png" width="100"/>
+         </a>
+       </td>
+     </tr>
+   </table>
 
-We apologize for the inconvenience, and we appreciate your understanding.
 
-
-We are excited about the potential of this project and look forward to further advancements. Join us on this journey as we continue to develop and refine our abandoned object detection system!
-
+We apologize for any inconvenience caused earlier, and we appreciate your understanding.
 
 
 
