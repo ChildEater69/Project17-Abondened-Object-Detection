@@ -58,24 +58,12 @@ We are excited about the potential of this project and look forward to further a
 Demo Video 
 -------------------------
 
-.. raw:: html
 
-   <table>
-     <tr>
-       <td>
-         <a href="Project17-Abondened-Object-Detection/Demo.mp4">
-           <img src="https://viso.ai/wp-content/uploads/2021/09/abandoned-object-detection-suitcase.jpg" alt="Screenshot" width="640" height="480">
-         </a>
-       </td>
-     </tr>
-     <tr>
-       <td align="center">
-         <a href="Project17-Abondened-Object-Detection/Demo.mp4">
-           <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Watch Demo</button>
-         </a>
-       </td>
-     </tr>
-   </table>
+
+https://github.com/ChildEater69/Project17-Abondened-Object-Detection/assets/115105709/f7cbda04-1ff9-4ae5-a1d2-a9b8cc5a1667
+
+
+
 
 
 
